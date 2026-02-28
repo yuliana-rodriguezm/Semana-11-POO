@@ -154,4 +154,3 @@ class Inventario:
         print("\n📋 LISTA DE PRODUCTOS")
         for producto in self.productos.values():
             print(producto)
-   

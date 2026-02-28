@@ -1,5 +1,4 @@
-# Clase Producto que aplica POO:
-# - Encapsulamiento mediante atributos privados
+# Clase Producto que representa cada producto en el inventario
 # - Métodos getters y setters
 # - Método __str__ para representación del objeto
 
